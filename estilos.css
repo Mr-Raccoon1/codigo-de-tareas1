@@ -1,0 +1,41 @@
+/* Fondo general y texto blanco */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  /* Estilos para los títulos */
+  h1 {
+    color: #0000FF;
+    font-size: 32px;
+  }
+  
+  h3, h4 {
+    color: #66ccff;
+  }
+  
+  /* Texto destacado */
+  b {
+    color: #FFFF00;
+  }
+  
+  /* Listas */
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Imágenes con márgenes */
+  img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  
+  /* Párrafos */
+  p {
+    margin-bottom: 10px;
+  }
+  
